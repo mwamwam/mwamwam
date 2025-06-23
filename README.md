@@ -1,10 +1,12 @@
-<h1 align="center">
-  <span style="color:#00BFFF;"><strong>Hi There!</strong> 👋</span>
+<h1>
+  <span style="animation: blink 1s step-start infinite; color: red;">Hi</span> I'm Hanz 👋
 </h1>
 
-<h2 align="center">
-  I'm Hanz!
-</h2>
+<style>
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style>
 <!--
 **mwamwam/mwamwam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
